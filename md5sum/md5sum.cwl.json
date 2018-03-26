@@ -1,6 +1,6 @@
 {
   "input_file": {
         "class": "File",
-        "path": "md5sum.input"
+        "path": "https://raw.githubusercontent.com/briandoconnor/dockstore-workflow-md5sum-tester/develop/md5sum/md5sum.input"
     }
 }
